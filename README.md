@@ -1,2 +1,2 @@
 # Personal Website Repository.
-Site URL: www.sanampakuwal.com.np
+URL: www.sanampakuwal.com.np
